@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/spacex-internship-challenge-for-tabishakhtar01/static/js/main.3993c2f5.chunk.js",
+    "main.js.map": "/spacex-internship-challenge-for-tabishakhtar01/static/js/main.3993c2f5.chunk.js.map",
+    "runtime-main.js": "/spacex-internship-challenge-for-tabishakhtar01/static/js/runtime-main.0a8f25a6.js",
+    "runtime-main.js.map": "/spacex-internship-challenge-for-tabishakhtar01/static/js/runtime-main.0a8f25a6.js.map",
+    "static/js/2.2f279091.chunk.js": "/spacex-internship-challenge-for-tabishakhtar01/static/js/2.2f279091.chunk.js",
+    "static/js/2.2f279091.chunk.js.map": "/spacex-internship-challenge-for-tabishakhtar01/static/js/2.2f279091.chunk.js.map",
+    "index.html": "/spacex-internship-challenge-for-tabishakhtar01/index.html",
+    "static/js/2.2f279091.chunk.js.LICENSE.txt": "/spacex-internship-challenge-for-tabishakhtar01/static/js/2.2f279091.chunk.js.LICENSE.txt",
+    "static/media/Rocket.9dd581ae.gif": "/spacex-internship-challenge-for-tabishakhtar01/static/media/Rocket.9dd581ae.gif",
+    "static/media/spaceX.e8c96d58.jpg": "/spacex-internship-challenge-for-tabishakhtar01/static/media/spaceX.e8c96d58.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0a8f25a6.js",
+    "static/js/2.2f279091.chunk.js",
+    "static/js/main.3993c2f5.chunk.js"
+  ]
+}
