@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import Table from '../Table/Index'
 import LaunchDetails from './LaunchDetails'
-const Launches = ({ details, status }) =>
+const Launches = ({ details, status, sortDate }) =>
 { 
     const [isSelected,setIsSelected] = useState(false)
     const [info,setInfo] = useState()
@@ -21,9 +21,9 @@ const Launches = ({ details, status }) =>
 
     return (
         <>
-            <Table details={details} status={status} getDetails={getDetails}/>
+            <Table details={details} status={status} getDetails={getDetails} sortDate={sortDate}/>
             {isSelected &&
-            <LaunchDetails details={details} info={info} setIsSelected={setIsSelected}/>}
+            <LaunchDetails details={details} info={info} setIsSelected={setIsSelected} sortDate={sortDate}/>}
         </>
     )
 }
